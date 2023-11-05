@@ -1,0 +1,14 @@
+/*Store this code in 'style.css' file inside the 'static' folder*/
+
+.bg {
+	/* The image used */
+	background-image: url("/static/images/main_back.jpg");
+  
+	/* Full height */
+	height: 100%;
+  
+	/* Center and scale the image nicely */
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+  }
